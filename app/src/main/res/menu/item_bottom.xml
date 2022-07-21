@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opDados"
+        android:icon="@drawable/ic_baseline_videogame_asset_24"
+        android:title="@string/dados" />
+    <item
+        android:id="@+id/opCalculadora"
+        android:icon="@drawable/ic_baseline_calculate_24"
+        android:title="@string/calculadora" />
+    <item
+        android:id="@+id/opIMC"
+        android:icon="@drawable/ic_baseline_medical_services_24"
+        android:title="@string/IMC" />
+</menu>
