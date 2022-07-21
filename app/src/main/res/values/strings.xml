@@ -5,4 +5,5 @@
     <string name="dados">Dados</string>
     <string name="calculadora">Calculadora</string>
     <string name="IMC">IMC</string>
+    <string name="cero">0</string>
 </resources>
