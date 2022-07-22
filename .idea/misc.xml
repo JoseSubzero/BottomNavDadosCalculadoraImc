@@ -3,10 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProyects/BottomNavDadosCalculadoraImc/app/src/main/res/drawable/darkyellow.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/BottomNavDadosCalculadoraImc/app/src/main/res/drawable/deepblue.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/BottomNavDadosCalculadoraImc/app/src/main/res/drawable/green.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/BottomNavDadosCalculadoraImc/app/src/main/res/drawable/lightblue.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/BottomNavDadosCalculadoraImc/app/src/main/res/drawable/lightyellow.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/BottomNavDadosCalculadoraImc/app/src/main/res/drawable/orange.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/BottomNavDadosCalculadoraImc/app/src/main/res/drawable/purple.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/BottomNavDadosCalculadoraImc/app/src/main/res/drawable/red.xml" value="0.2985" />
         <entry key="..\:/AndroidStudioProyects/BottomNavDadosCalculadoraImc/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
         <entry key="..\:/AndroidStudioProyects/BottomNavDadosCalculadoraImc/app/src/main/res/layout/fragment_calculadora.xml" value="0.358695652173913" />
         <entry key="..\:/AndroidStudioProyects/BottomNavDadosCalculadoraImc/app/src/main/res/layout/fragment_dados.xml" value="0.358695652173913" />
         <entry key="..\:/AndroidStudioProyects/BottomNavDadosCalculadoraImc/app/src/main/res/layout/fragment_i_m_c.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProyects/BottomNavDadosCalculadoraImc/app/src/main/res/layout/tipos_de_peso.xml" value="0.358695652173913" />
         <entry key="..\:/AndroidStudioProyects/BottomNavDadosCalculadoraImc/app/src/main/res/menu/item_bottom.xml" value="0.365625" />
       </map>
     </option>
