@@ -49,9 +49,6 @@ class DadosFragment : Fragment() {
             binding.ivDado2.setImageResource(dados[d2-1])
             binding.tvResultado.text = (d1 + d2).toString()
         }
-
-
-
     }
 
 }
